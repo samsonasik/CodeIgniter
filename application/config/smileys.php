@@ -20,7 +20,7 @@
  * @author		EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2013, EllisLab, Inc. (http://ellislab.com/)
  * @license		http://opensource.org/licenses/AFL-3.0 Academic Free License (AFL 3.0)
- * @link		http://codeigniter.com
+ * @link		http://ellislab.com/codeigniter
  * @since		Version 1.0
  * @filesource
  */
@@ -34,7 +34,7 @@
 | :-) and :) use the same image replacement.
 |
 | Please see user guide for more info:
-| http://codeigniter.com/user_guide/helpers/smiley_helper.html
+| http://ellislab.com/codeigniter/user_guide/helpers/smiley_helper.html
 |
 */
 

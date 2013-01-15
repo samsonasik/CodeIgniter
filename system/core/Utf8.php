@@ -20,7 +20,7 @@
  * @author		EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2013, EllisLab, Inc. (http://ellislab.com/)
  * @license		http://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
- * @link		http://codeigniter.com
+ * @link		http://ellislab.com/codeigniter
  * @since		Version 2.0
  * @filesource
  */
@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @subpackage	Libraries
  * @category	UTF-8
  * @author		EllisLab Dev Team
- * @link		http://codeigniter.com/user_guide/libraries/utf8.html
+ * @link		http://ellislab.com/codeigniter/user_guide/libraries/utf8.html
  */
 class CI_Utf8 {
 

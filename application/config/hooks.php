@@ -20,7 +20,7 @@
  * @author		EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2013, EllisLab, Inc. (http://ellislab.com/)
  * @license		http://opensource.org/licenses/AFL-3.0 Academic Free License (AFL 3.0)
- * @link		http://codeigniter.com
+ * @link		http://ellislab.com/codeigniter
  * @since		Version 1.0
  * @filesource
  */
@@ -32,7 +32,7 @@
 | This file lets you define "hooks" to extend CI without hacking the core
 | files.  Please see the user guide for info:
 |
-|	http://codeigniter.com/user_guide/general/hooks.html
+|	http://ellislab.com/codeigniter/user_guide/general/hooks.html
 |
 */
 

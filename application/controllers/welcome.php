@@ -20,7 +20,7 @@
  * @author		EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2013, EllisLab, Inc. (http://ellislab.com/)
  * @license		http://opensource.org/licenses/AFL-3.0 Academic Free License (AFL 3.0)
- * @link		http://codeigniter.com
+ * @link		http://ellislab.com/codeigniter
  * @since		Version 1.0
  * @filesource
  */
@@ -41,7 +41,7 @@ class Welcome extends CI_Controller {
 	 *
 	 * So any other public methods not prefixed with an underscore will
 	 * map to /index.php/welcome/<method_name>
-	 * @see http://codeigniter.com/user_guide/general/urls.html
+	 * @see http://ellislab.com/codeigniter/user_guide/general/urls.html
 	 */
 	public function index()
 	{

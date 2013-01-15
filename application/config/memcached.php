@@ -20,7 +20,7 @@
  * @author		EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2013, EllisLab, Inc. (http://ellislab.com/)
  * @license		http://opensource.org/licenses/AFL-3.0 Academic Free License (AFL 3.0)
- * @link		http://codeigniter.com
+ * @link		http://ellislab.com/codeigniter
  * @since		Version 2.0
  * @filesource
  */
@@ -31,7 +31,7 @@
 | -------------------------------------------------------------------------
 | Your Memcached servers can be specified below.
 |
-|	See: http://codeigniter.com/user_guide/libraries/caching.html#memcached
+|	See: http://ellislab.com/codeigniter/user_guide/libraries/caching.html#memcached
 |
 */
 $config = array(

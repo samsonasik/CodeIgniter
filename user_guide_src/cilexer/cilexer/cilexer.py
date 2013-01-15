@@ -1,5 +1,5 @@
 # CodeIgniter
-# http://codeigniter.com
+# http://ellislab.com/codeigniter
 # 
 # An open source application development framework for PHP 5.2.4 or newer
 # 

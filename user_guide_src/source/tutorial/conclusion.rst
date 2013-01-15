@@ -20,7 +20,7 @@ CodeIgniter within a few days.
 If you still have questions about the framework or your own CodeIgniter
 code, you can:
 
--  Check out our `forums <http://codeigniter.com/forums>`_
--  Visit our `IRC chatroom <http://codeigniter.com/wiki/IRC>`_
--  Explore the `Wiki <http://codeigniter.com/wiki/>`_
+-  Check out our `forums <http://ellislab.com/codeigniter/forums>`_
+-  Visit our `IRC chatroom <http://ellislab.com/codeigniter/wiki/IRC>`_
+-  Explore the `Wiki <http://ellislab.com/codeigniter/wiki/>`_
 

@@ -1963,7 +1963,7 @@ Release Date: January 30, 2008
    -  Added titles to all user manual pages.
    -  Added attributes into <html> of userguide for valid html.
    -  Added `Zip Encoding
-      Class <http://codeigniter.com/user_guide/libraries/zip>`_ to
+      Class <http://ellislab.com/codeigniter/user_guide/libraries/zip>`_ to
       the table of contents of the userguide.
    -  Moved part of the userguide menu javascript to an external file.
    -  Documented distinct() in :doc:`Active
@@ -2404,7 +2404,7 @@ Release Date: September 17, 2006
    the core files.
 -  Added the ability to organize controller files :doc:`into
    sub-folders <general/controllers>`. Kudos to Marco for
-   `suggesting <http://codeigniter.com/forums/viewthread/627/>`_ this
+   `suggesting <http://ellislab.com/codeigniter/forums/viewthread/627/>`_ this
    (and the next two) feature.
 -  Added regular expressions support for :doc:`routing
    rules <./general/routing>`.
